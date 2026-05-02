@@ -16,7 +16,7 @@ The dataset contains ride-level events including:
 - timestamp
 
 ## Architecture
-ADLS → Bronze → Silver → Gold
+
 ![Databricks Workflow](docs/ride_shares_medallion.drawio.png)
 
 ## Tech Stack
