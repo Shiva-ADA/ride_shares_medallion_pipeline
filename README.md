@@ -17,6 +17,7 @@ The dataset contains ride-level events including:
 
 ## Architecture
 ADLS → Bronze → Silver → Gold
+![Databricks Workflow](docs/ride_shares_medallion.drawio.png)
 
 ## Tech Stack
 - Azure Data Lake Storage
