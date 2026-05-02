@@ -44,7 +44,7 @@ ADLS → Bronze → Silver → Gold
 - Databricks Job with task dependencies
 - Email notifications on success/failure
 
-![Databricks Workflow](docs/workflow.jpeg)
+![Databricks Workflow](docs/Workflow.jpeg)
 
 ## Output Tables
 - gold.daily_metrics
