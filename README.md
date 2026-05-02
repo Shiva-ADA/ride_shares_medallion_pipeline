@@ -4,6 +4,17 @@
 End-to-end data pipeline built using Azure Databricks and Delta Lake.  
 Processes ride data through Bronze, Silver, and Gold layers to generate business insights.
 
+## Data
+
+This project uses a simulated ride dataset stored in the `data/` folder.
+
+The dataset contains ride-level events including:
+- user_id
+- driver_id
+- event_type
+- fare_amount
+- timestamp
+
 ## Architecture
 ADLS → Bronze → Silver → Gold
 
